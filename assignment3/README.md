@@ -1,0 +1,2 @@
+# transformers作业，阅读源码
+阅读t5模型源码，并对关键行作用进行注释。 例如所有的语法糖（含有@的行不用关心在干什么，所有并行化计算部分不用关心。你只需要读懂T5LayerNorm、T5LayerFF、T5Attention、T5LayerSelfAttention、T5LayerCrossAttention、T5Block、T5Stack、T5Model的forward部分即可（backwardtorch会根据计算图自动得出）

@@ -1,3 +1,5 @@
-## CS231n Convolutional Neural Networks for Visual Recognition
+## 徐老师访问学生交流作业
 
-斯坦福 cs231n 作业代码实践
+# 作业类别
+week0对应assignment1和assignment2
+week1对应assignment3
